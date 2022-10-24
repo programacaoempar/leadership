@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/led")
+@RequestMapping("/leds")
 public class LedController {
 
     private final LedService ledService;
