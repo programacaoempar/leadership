@@ -1,7 +1,7 @@
 package com.sandrini.leadership.controllers;
 
 import com.sandrini.leadership.domains.Led;
-import com.sandrini.leadership.domains.LedDTO;
+import com.sandrini.leadership.dtos.LedDTO;
 import com.sandrini.leadership.services.LedService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

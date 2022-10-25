@@ -1,4 +1,4 @@
-package com.sandrini.leadership.domains;
+package com.sandrini.leadership.dtos;
 
 import lombok.*;
 

@@ -1,5 +1,6 @@
 package com.sandrini.leadership.domains;
 
+import com.sandrini.leadership.dtos.LedDTO;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

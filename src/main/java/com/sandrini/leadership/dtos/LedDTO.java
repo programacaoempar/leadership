@@ -1,7 +1,9 @@
-package com.sandrini.leadership.domains;
+package com.sandrini.leadership.dtos;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import com.sandrini.leadership.domains.Led;
+import com.sandrini.leadership.domains.Team;
 import lombok.*;
 
 @Getter

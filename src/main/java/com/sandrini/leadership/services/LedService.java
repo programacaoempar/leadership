@@ -1,7 +1,7 @@
 package com.sandrini.leadership.services;
 
 import com.sandrini.leadership.domains.Led;
-import com.sandrini.leadership.repositories.LedRepository;
+import com.sandrini.leadership.repository.LedRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;
